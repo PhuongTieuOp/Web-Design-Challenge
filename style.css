@@ -43,7 +43,6 @@
 }
 
 .text-cus {
-  Padding: 20px;
   color: black;
   font-size: 16;
   font-weight: bold
@@ -60,8 +59,3 @@ body{
   background-attachment: fixed;
   font-family: sans-serif;
 }
-/* 
-section{
-  width:80vw;
-  margin:5% auto;
-} */
