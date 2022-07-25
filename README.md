@@ -28,8 +28,6 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 ### Website Requirements
 
-For reference, see the ["Screenshots" section](#screenshots) below.
-
 The website must consist of 7 pages total, including:
 
 * A [landing page](#landing-page) containing:
@@ -75,63 +73,3 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 * Add extra visualisations! The more comparisons the better, right?
 * Use meaningful glyphicons next to links in the header.
 * Have visualisation navigation on every visualisations page with an active state. See the screenshots below.
-
-### Screenshots
-
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
-
-#### <a id="landing-page"></a>Landing page
-
-Large screen:
-
-![Landing page large screen](Images/landingResize.png)
-
-Small screen:
-
-![Landing page small screen](Images/landing-sm.png)
-￼
-
-#### <a id="comparisons-page"></a>Comparisons page
-
-Large screen:
-
-![comparison page large screen](Images/comparison-lg.png)
-
-Small screen:
-
-![comparison page small screen](Images/comparison-sm.png)
-
-#### <a id="data-page"></a>Data page
-
-Large screen:
-
-![data page large screen](Images/data-lg.png)
-
-
-Small screen:
-
-![data page small screen](Images/data-sm.png)
-
-#### <a id="visualisation-pages"></a>Visualisation pages
-
-You'll build four of these, one for each visualisation. Here's an example of one:
-
-Large screen:
-
-![visualize page large screen](Images/visualize-lg.png)
-
-Small screen:
-
-![visualize page small screen](Images/visualize-sm.png)
-
-#### <a id="navigation-menu"></a>Navigation menu
-
-Large screen:
-![nav menu large screen](Images/nav-lg.png)
-
-Small screen:
-![nav menu small screen](Images/nav-sm.png)
-
-### Copyright
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
